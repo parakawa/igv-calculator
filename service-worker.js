@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/igv-calculator/precache-manifest.a4909a722915db48956f53a3d879d8c8.js"
+  "/igv-calculator/precache-manifest.5e474febce4581608f2e505be515da27.js"
 );
 
 self.addEventListener('message', (event) => {

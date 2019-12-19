@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9f2927faf49d05358cd79d6dc35ba8f",
+    "revision": "ee275f544667c929b676ece650c0daa7",
     "url": "/igv-calculator/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/igv-calculator/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "753760fdb4f382e6790e",
-    "url": "/igv-calculator/static/css/main.ca909c41.chunk.css"
+    "revision": "9e04682596969b8ab5bd",
+    "url": "/igv-calculator/static/css/main.42529406.chunk.css"
   },
   {
     "revision": "362d4475834661c857aa",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/igv-calculator/static/js/2.cda6cd68.chunk.js.LICENSE"
   },
   {
-    "revision": "753760fdb4f382e6790e",
-    "url": "/igv-calculator/static/js/main.85c5ca4a.chunk.js"
+    "revision": "9e04682596969b8ab5bd",
+    "url": "/igv-calculator/static/js/main.2d43f147.chunk.js"
   },
   {
     "revision": "636a8b4548492fb15908",
