@@ -1,0 +1,46 @@
+:root {
+	--main-color: #692480;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+body {
+	font-family: 'Quicksand', sans-serif;
+}
+
+.calculator {
+	padding: 35px 21px;
+}
+
+.calculator input {
+	border: none;
+	border-bottom: 1px solid #8c8c8c;
+	text-align: right;
+}
+
+.form-control:focus {
+	outline: none;
+	box-shadow:none !important;
+	/* border:1px solid white !important; */
+	border-bottom: 1px solid black !important;
+}
+
+.form-control:disabled {
+	background-color: white !important;
+	box-shadow: none;
+    opacity: 1;
+}
+
+.form-group {
+    margin-bottom: 2rem;
+}
+
+.calculator button {
+	display: block;
+	margin: 0 auto;
+	margin-top: 3rem;
+	background-color: var(--main-color);
+	border-color: var(--main-color);
+	border-radius: 0px;
+	width: 60%;
+}
