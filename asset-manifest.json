@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/igv-calculator/static/css/main.ca909c41.chunk.css",
+    "main.js": "/igv-calculator/static/js/main.85c5ca4a.chunk.js",
+    "main.js.map": "/igv-calculator/static/js/main.85c5ca4a.chunk.js.map",
+    "runtime-main.js": "/igv-calculator/static/js/runtime-main.c7cd76e0.js",
+    "runtime-main.js.map": "/igv-calculator/static/js/runtime-main.c7cd76e0.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/igv-calculator/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.cda6cd68.chunk.js": "/igv-calculator/static/js/2.cda6cd68.chunk.js",
+    "static/js/2.cda6cd68.chunk.js.map": "/igv-calculator/static/js/2.cda6cd68.chunk.js.map",
+    "index.html": "/igv-calculator/index.html",
+    "precache-manifest.a4909a722915db48956f53a3d879d8c8.js": "/igv-calculator/precache-manifest.a4909a722915db48956f53a3d879d8c8.js",
+    "service-worker.js": "/igv-calculator/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/igv-calculator/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.ca909c41.chunk.css.map": "/igv-calculator/static/css/main.ca909c41.chunk.css.map",
+    "static/js/2.cda6cd68.chunk.js.LICENSE": "/igv-calculator/static/js/2.cda6cd68.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7cd76e0.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.cda6cd68.chunk.js",
+    "static/css/main.ca909c41.chunk.css",
+    "static/js/main.85c5ca4a.chunk.js"
+  ]
+}
